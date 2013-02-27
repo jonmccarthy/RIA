@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAuctions", "SuperAuctions\SuperAuctions.csproj", "{079B75FA-37C0-406E-A999-70BF3881A556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAuctions.Domain", "SuperAuctions.Domain\SuperAuctions.Domain.csproj", "{C074432F-7181-461A-A815-5A14FAAE33C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAuctions.WebUI", "SuperAuctions.WebUI\SuperAuctions.WebUI.csproj", "{0D486709-A575-4B02-90DB-BCB48E2FE020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAuctions.UnitTests", "SuperAuctions.UnitTests\SuperAuctions.UnitTests.csproj", "{42B09198-4896-4B56-9E43-D24AEBB34AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079B75FA-37C0-406E-A999-70BF3881A556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079B75FA-37C0-406E-A999-70BF3881A556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079B75FA-37C0-406E-A999-70BF3881A556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079B75FA-37C0-406E-A999-70BF3881A556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C074432F-7181-461A-A815-5A14FAAE33C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C074432F-7181-461A-A815-5A14FAAE33C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C074432F-7181-461A-A815-5A14FAAE33C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C074432F-7181-461A-A815-5A14FAAE33C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D486709-A575-4B02-90DB-BCB48E2FE020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D486709-A575-4B02-90DB-BCB48E2FE020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D486709-A575-4B02-90DB-BCB48E2FE020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D486709-A575-4B02-90DB-BCB48E2FE020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B09198-4896-4B56-9E43-D24AEBB34AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B09198-4896-4B56-9E43-D24AEBB34AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B09198-4896-4B56-9E43-D24AEBB34AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B09198-4896-4B56-9E43-D24AEBB34AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

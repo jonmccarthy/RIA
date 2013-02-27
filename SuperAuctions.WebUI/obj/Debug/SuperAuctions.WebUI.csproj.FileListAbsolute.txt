@@ -1,0 +1,8 @@
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.WebUI\bin\SuperAuctions.WebUI.dll
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.WebUI\bin\SuperAuctions.WebUI.pdb
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.WebUI\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.WebUI\obj\Debug\SuperAuctions.WebUI.dll
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.WebUI\obj\Debug\SuperAuctions.WebUI.pdb
+C:\Users\MscWeb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.WebUI\bin\SuperAuctions.Domain.dll
+C:\Users\MscWeb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.WebUI\bin\SuperAuctions.Domain.pdb
+C:\Users\MscWeb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.WebUI\bin\Ninject.dll

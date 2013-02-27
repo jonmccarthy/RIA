@@ -1,0 +1,6 @@
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.Domain\bin\Debug\SuperAuctions.Domain.dll
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.Domain\bin\Debug\SuperAuctions.Domain.pdb
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.Domain\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.Domain\obj\Debug\SuperAuctions.Domain.dll
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.Domain\obj\Debug\SuperAuctions.Domain.pdb
+C:\Users\MscWeb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.Domain\bin\Debug\SuperAuctions.Domain.dll.config

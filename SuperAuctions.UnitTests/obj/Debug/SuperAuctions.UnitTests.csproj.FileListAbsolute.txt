@@ -1,0 +1,5 @@
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.UnitTests\bin\Debug\SuperAuctions.UnitTests.dll
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.UnitTests\bin\Debug\SuperAuctions.UnitTests.pdb
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.UnitTests\obj\Debug\SuperAuctions.UnitTests.dll
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions.UnitTests\obj\Debug\SuperAuctions.UnitTests.pdb

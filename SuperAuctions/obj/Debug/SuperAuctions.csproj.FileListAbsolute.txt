@@ -1,0 +1,5 @@
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions\bin\SuperAuctions.dll
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions\bin\SuperAuctions.pdb
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions\obj\Debug\SuperAuctions.dll
+c:\users\mscweb\documents\visual studio 2010\Projects\SuperAuctions\SuperAuctions\obj\Debug\SuperAuctions.pdb
